@@ -7,6 +7,7 @@ public class Ders1 {
         System.out.println("fazlidan selamlar");
          System.out.println("merhaba conflict");
          
+
         
     }
 }
