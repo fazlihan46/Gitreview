@@ -5,7 +5,7 @@ public class Ders1 {
         System.out.println("saat 18:46");
         System.out.println("saat 18:46");
         System.out.println("fazlidan selamlar");
-         System.out.println("merhaba dunya");
+         System.out.println("merhaba remote commit");
         
     }
 }
